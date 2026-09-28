@@ -1,0 +1,17 @@
+{
+  "identity": {
+    "name": "Sophia",
+    "face": "freckled, warm hazel-green eyes, medium-full rose mouth, soft oval jaw",
+    "hair": "long voluminous wavy light-brown with freckles, shoulder-to-midback",
+    "body": "5'9\" long line, athletic hourglass, slim legs, 24\" waist",
+    "outfit": "cropped textured beige horse-embroidered jacket over grey Calvin Klein sports bra and matching high-waisted briefs, gold rings and hoop earrings, red nail polish, barefoot or jazz shoes",
+    "setting": "contemporary dance studio with mirrors, barre, wooden sprung floor, natural window light"
+  },
+  "style": "concert/theatrical jazz primary + contemporary secondary",
+  "song": "The Night They Drove Old Dixie Down — The Band (1969 album cut)",
+  "slug": "dixie-down-contemporary-jazz",
+  "duration_seconds": 212,
+  "bpm_dancer": 63,
+  "footwear": "jazz shoes (socks optional for floor)",
+  "reference_image": "cfd29e7f-8d2d-4a37-9ae6-afbbce4f2345"
+}
